@@ -1,4 +1,4 @@
-package primeirob.aulas;
+package primeirob;
 
 public class Hello {
 
