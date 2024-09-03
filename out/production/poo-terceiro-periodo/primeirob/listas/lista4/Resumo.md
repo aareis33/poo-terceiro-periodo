@@ -11,7 +11,7 @@ Foca em como executar ajudar a definir o fluxo de controle que mexe no programa
 Paradigma Declarativos
 focado em como executa o codigo, defini a logica,mas nao e um fluxos detalhado
 
-Programação Orientada a Objetos d
+Programação Orientada a Objetos, criada no ano 1970 por Alan Kay, se baseia na criaçao de objeto
 Cria novas funçoes com classes antigas,A POO ajuda a aproveitas classes antigas, incentiva a divisao de codigos, ajuda no disign de Software, usando A POO o codigo fica mais organizado
 
 
