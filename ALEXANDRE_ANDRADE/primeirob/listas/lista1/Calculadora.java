@@ -29,7 +29,6 @@ public class Calculadora {
 
                     System.out.println("Digite o preço total:");
                     double precoTotal2 = sc.nextDouble();
-
                     double troco = valorPago - precoTotal2;
                     System.out.printf("O troco é R$ %.2f\n", troco);
                     break;
